@@ -3,3 +3,9 @@ body {
   margin: 3em;
   padding: 0;
 }
+
+.pinkBackground {
+	background: pink;
+	color: purple;
+	margin: 2em;
+}
